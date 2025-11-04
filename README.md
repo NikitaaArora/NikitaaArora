@@ -1,30 +1,3 @@
-## Hi, I'm Nikita 👩‍💻
-
-🚀 **AI Engineer @ Genesilico.ai** | Building AI solutions for healthcare and genomics  
-💡 Exploring **NLP**, **GenAI**, and **MLOps** — from model training to production  
-🧠 Passionate about transforming research models into real-world applications  
-📊 I’ve worked on projects like **Sentiment Analysis**, **Named Entity Recognition**, and **Gene Expression-based Drug Response Prediction**
-
----
-
-### 🧩 Current Focus
-- Improving model performance with advanced NLP (Transformers, BERT, etc.)
-- Automating ML pipelines using **MLflow**, **Optuna**, and **AWS EC2**
-- Experimenting with **LLMs** and **Retrieval-Augmented Generation (RAG)** setups
-
----
-
-### 🧰 Tech Stack
-`Python` · `scikit-learn` · `LightGBM` · `PyTorch` · `Transformers` · `MLflow` · `FastAPI` ·  
-`AWS EC2` · `S3` · `Docker` · `Kubernetes (learning)` · `Pandas` · `NumPy` · `Optuna`
-
----
-
-### 🌐 Connect with Me
-[LinkedIn](your-link) • [Medium](your-link) • [GitHub Projects](your-link)
-
-> “Turning ideas into deployed AI solutions — one model at a time.”
-
 <table width="100%" cellpadding="10" cellspacing="0" style="border: none;">
   <tr>
     <!-- LEFT COLUMN -->
@@ -32,11 +5,11 @@
       <div style="padding: 16px; border: 1px solid #333; border-radius: 12px;">
         <h2 style="margin-top: 0;">Hi, I'm Nikita </h2>
         <ul>
-          <li>🚀 **AI Engineer @ Genesilico.ai** | Building AI solutions for healthcare and genomics
+          <li>🚀 <b>AI Engineer @ Genesilico.ai<b> | Building AI solutions for healthcare and genomics
           <li>🌱 Exploring <b>enterprise AI orchestrations</b>.</li>
           <li>🤝 Seeking collaborators for <b>innovative AI & ML projects.</b></li>
           <li>🧠 Ask me about <b>GenAI, ML Engineer, ML-Ops, Deep Learning, NLP.</b></li>
-          <li>⚡ 🧠 Passionate about transforming research models into real-world applications</i></li>
+          <li>⚡ Passionate about transforming research models into real-world applications</i></li>
         </ul>
       </div>
     </td>
@@ -59,7 +32,7 @@
         <!-- Quote -->
         <br>
         <blockquote style="margin: 0; font-style: italic; color: #aaa; border-left: 4px solid #555; padding-left: 12px;">
-          “Simplicity is the soul of efficiency.” – Austin Freeman
+          “Turning ideas into deployed AI solutions — one model at a time..”
         </blockquote>
       </div>
     </td>
@@ -76,14 +49,14 @@
   <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=flat&logo=datadog&logoColor=white" alt="Datadog"/>
   <img src="https://img.shields.io/badge/gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white" alt="Gunicorn"/>
-  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white" alt="DynamoDB"/>
+  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white" alt="Transformers"/>
+  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white" alt="Celery"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white" alt="Redis"/>
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white" alt="GitLab"/>
+  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white" alt="Pandas/NumPy"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git"/>

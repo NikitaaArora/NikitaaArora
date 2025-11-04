@@ -30,13 +30,13 @@
     <!-- LEFT COLUMN -->
     <td valign="top" style="border: none; width: 60%;">
       <div style="padding: 16px; border: 1px solid #333; border-radius: 12px;">
-        <h2 style="margin-top: 0;">Hi, I'm k10 🐼</h2>
+        <h2 style="margin-top: 0;">Hi, I'm Nikita </h2>
         <ul>
-          <li>🧪 Currently Building <b>ReAct Agents & Rag's</b> at Enterprise scale.</li>
+          <li>🚀 **AI Engineer @ Genesilico.ai** | Building AI solutions for healthcare and genomics
           <li>🌱 Exploring <b>enterprise AI orchestrations</b>.</li>
           <li>🤝 Seeking collaborators for <b>innovative AI & ML projects.</b></li>
-          <li>🧠 Ask me about <b>GenAI, MLE, ML-Ops, Deep Learning, NLP.</b></li>
-          <li>⚡ Fact: I believe <i>sequence processing is the key to true AI—because life itself is a sequence!</i></li>
+          <li>🧠 Ask me about <b>GenAI, ML Engineer, ML-Ops, Deep Learning, NLP.</b></li>
+          <li>⚡ 🧠 Passionate about transforming research models into real-world applications</i></li>
         </ul>
       </div>
     </td>
@@ -48,17 +48,11 @@
           <h2 style="margin-top: 0;">🌐 Connect with Me</h2>
           <br>
           <div style="display: flex; flex-direction: column; gap: 8px; margin-bottom: 24px;">
-            <a href="https://linkedin.com/in/ketan-gangal" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+            <a href="https://www.linkedin.com/in/aroranikita97" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
               <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
             </a><br>
-            <a href="https://medium.com/@ketangangal98" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+            <a href="https://medium.com/@aroranik452" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
               <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"/>
-            </a><br>
-            <a href="https://x.com/ketan_gangal" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-              <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"/>
-            </a><br>
-            <a href="https://youtube.com/@ketangangal" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-              <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/>
             </a><br>
           </div>
         </div>

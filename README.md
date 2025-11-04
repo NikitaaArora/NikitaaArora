@@ -54,7 +54,6 @@
 <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/GitHub%20Actions-2671E5?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins"/>
 
 <!-- ☁️ Cloud & Infrastructure -->
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"/>
@@ -63,8 +62,8 @@
 <!-- 🗃️ Databases -->
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white" alt="DynamoDB"/>
 <img src="https://img.shields.io/badge/Redis-DD0031?style=flat&logo=redis&logoColor=white" alt="Redis"/>
+<img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white" alt="Celery"/>
 
 <!-- 🧰 Tools & Version Control -->
 <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white" alt="Git"/>
